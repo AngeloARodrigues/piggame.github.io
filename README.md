@@ -1,6 +1,8 @@
 # piggame.github.io
 
-
+Jogo para dois jogadores, onde o objetivo é que atingir 100 pontos primeiro.
+Quando rolar 1 perde-se os pontos e passa a vez.
+Para segurar os pontos aperte hold.
 
 Para acessar clique no link: https://angeloarodrigues.github.io/piggame.github.io/
 
